@@ -1,0 +1,31 @@
+#app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+#app .countryContainer {
+  position: relative;
+  max-width: 400px;
+  width: 100%;
+  background-color: antiquewhite;
+  border-radius: 25px;
+  overflow: hidden;
+  cursor: pointer;
+}
+#app .countryContainer .imgContainer {
+  width: 100%;
+}
+#app .countryContainer .imgContainer img {
+  width: 100%;
+}
+#app .countryContainer .noInfo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 255, 255, 0.825);
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=global.css.map */
