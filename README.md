@@ -13,7 +13,7 @@ It fetches data from the [RestCountries API](https://restcountries.com/) and dis
 
 ## Tech Stack
 - HTML  
-- CSS  
+- SCSS  
 - TypeScript  
 - Vite  
 - REST API (RestCountries)
